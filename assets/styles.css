@@ -79,6 +79,7 @@ p{margin:0}
 .g img{width:100%;aspect-ratio:16/10;object-fit:cover;border-radius:var(--radius)}
 .g--wide{grid-column:span 2}
 .g--fill img{flex:1 1 auto;min-height:0;height:100%;aspect-ratio:auto}
+.g img.pos-left{object-position:20% 50%}
 .g figcaption{margin-top:10px;font-size:15px;color:var(--muted)}
 .note{margin-top:24px;font-size:13px;color:var(--muted)}
 
