@@ -4,7 +4,7 @@ window.LANDING_CONFIG = {
   whatsapp: "525517686655",
 
   // ID del pixel de Meta (Administrador de eventos). Déjalo vacío para no cargar el pixel.
-  metaPixelId: "",
+  metaPixelId: "1425591295809721",
 
   // (Opcional) ID de un formulario de Formspree para recibir también los datos por correo.
   // Ej.: "xyzabcd". Vacío = el formulario solo abre WhatsApp.
